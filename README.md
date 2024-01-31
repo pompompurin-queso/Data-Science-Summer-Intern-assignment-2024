@@ -18,6 +18,7 @@ How to Install and Run the Project:
    jupyter notebook your_project.ipynb
    Run each cell in the notebook to reproduce the analysis.
 or
+
 2. Open and run on Google Colab.
 
 
