@@ -13,9 +13,12 @@ The project aims to add these further developments in the future:
 - Examine the model more and understand the steps it took to reach to the prediction.
 
 How to Install and Run the Project:
-1.
-2.
-3.
+1. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook your_project.ipynb
+   Run each cell in the notebook to reproduce the analysis.
+or
+2. Open and run on Google Colab.
 
 
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
